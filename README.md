@@ -1,1 +1,3 @@
 # Secret level
+
+color = "red"
