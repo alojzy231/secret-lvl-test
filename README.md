@@ -1,3 +1,3 @@
 # Secret level
 
-color = "red"
+color=blue
